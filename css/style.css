@@ -10,3 +10,17 @@ img {
     width: 525px;
     height: auto;
 }
+div {
+    min-height: 150px;
+    padding: 25px;
+}
+h1 {
+    font-size: 64px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    text-shadow: #808080;
+    box-shadow: 5px 5px 2px;
+    
+}
