@@ -38,6 +38,10 @@ h2 {
     background-color: #FFFF00;
     text-align: right;
 }
+#green {
+    background-color: #008000;
+    text-align: left;
+}
  #yellow h2 {
     color: #000000;
     text-shadow: 5px 5px 2px #c7e2c7;
@@ -45,10 +49,7 @@ h2 {
 #yellow p{
     color: #000000
 }
-#green {
-    background-color: #008000;
-    text-align: left;
-}
+
 footer p{
     text-align: right;
     padding-top: 10px;
