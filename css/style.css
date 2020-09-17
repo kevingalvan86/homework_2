@@ -45,3 +45,12 @@ h2 {
 #yellow p{
     color: #000000
 }
+#green {
+    color: #008000;
+    text-align: left;
+}
+footer p{
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
